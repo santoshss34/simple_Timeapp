@@ -10,3 +10,5 @@ Task=2
 1. Need to create directory structure for terraform like varibale.tf main.tf output.tf etc
 2. Created two files in variables and main.tf.
 3. inside main.tf we mention one vpc 2 subnets private public with ecs on ec2 machines.
+4.  After that er can run commands on terraform console terraform init, terraform apply.
+5.  And resource are created.
